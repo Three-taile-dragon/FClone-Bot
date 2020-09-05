@@ -11,7 +11,7 @@
  
  ## Deployment to Heroku
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Nenokkadine/Fclone-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Three-taile-dragon/Fclone-Bot/tree/master)
 
 ## Credits 
 
